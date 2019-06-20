@@ -1,2 +1,3 @@
 # gitskills
-aaaaaaaaaaaa
+aoaaaaaaaaaaa
+Creating a new baranch is quick
